@@ -82,7 +82,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "blob_Ds",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					},
 					"logStorageSettings": {
