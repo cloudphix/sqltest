@@ -56,7 +56,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "blob_Ds",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					}
 				]
