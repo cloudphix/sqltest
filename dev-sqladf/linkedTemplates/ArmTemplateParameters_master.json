@@ -5,10 +5,13 @@
 		"factoryName": {
 			"value": "dev-sqladf"
 		},
-		"Blob_Link_connectionString": {
+		"AzureBlobStorage1_connectionString": {
 			"value": ""
 		},
-		"AzureBlobStorage1_connectionString": {
+		"AzureSql_Ls_connectionString": {
+			"value": ""
+		},
+		"Blob_Link_connectionString": {
 			"value": ""
 		},
 		"containerUri": {
