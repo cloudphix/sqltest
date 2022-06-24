@@ -1,0 +1,16 @@
+{
+	"name": "AzureSql_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSql_Ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "emp_hp"
+		}
+	}
+}
