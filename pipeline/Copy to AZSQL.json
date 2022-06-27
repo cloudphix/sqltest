@@ -163,6 +163,9 @@
 				}
 			}
 		],
+		"folder": {
+			"name": "SSIS-DEV_TASK/PRD"
+		},
 		"annotations": []
 	}
 }
